@@ -1,0 +1,2748 @@
+{
+ "dishes": [
+  {
+   "code": "B1",
+   "type": "Petit-déjeuner",
+   "name": "Œufs durs, pain complet et tomate",
+   "kcal": 260,
+   "protein": 18,
+   "ingredients": [
+    "2 œufs",
+    "1 tranche de pain complet (40 g)",
+    "1 tomate",
+    "Sel, poivre, cumin",
+    "Thé ou café sans sucre"
+   ],
+   "recipe": "Plonge les œufs 10 minutes dans l’eau bouillante, refroidis-les et écale-les. Coupe la tomate en rondelles, assaisonne de sel, poivre et cumin. Sers avec le pain."
+  },
+  {
+   "code": "B2",
+   "type": "Petit-déjeuner",
+   "name": "Porridge pomme, cannelle et miel",
+   "kcal": 280,
+   "protein": 12,
+   "ingredients": [
+    "40 g de flocons d’avoine",
+    "200 ml de lait écrémé",
+    "½ pomme râpée",
+    "1 c. à café de miel",
+    "Cannelle"
+   ],
+   "recipe": "Cuis l’avoine dans le lait 4 à 5 minutes à feu doux en remuant. Hors du feu, ajoute la pomme râpée, la cannelle et le miel."
+  },
+  {
+   "code": "B3",
+   "type": "Petit-déjeuner",
+   "name": "Bol yaourt, avoine et pomme",
+   "kcal": 265,
+   "protein": 11,
+   "ingredients": [
+    "1 yaourt nature 0 %",
+    "40 g de flocons d’avoine",
+    "½ pomme en dés",
+    "1 c. à café de miel",
+    "Cannelle"
+   ],
+   "recipe": "Mélange le tout dans un bol. Tu peux le préparer la veille et le garder au frigo."
+  },
+  {
+   "code": "B4",
+   "type": "Petit-déjeuner",
+   "name": "Œufs brouillés, pain complet et concombre",
+   "kcal": 255,
+   "protein": 17,
+   "ingredients": [
+    "2 œufs",
+    "1 tranche de pain complet",
+    "½ concombre",
+    "Sel, poivre"
+   ],
+   "recipe": "Bats les œufs et cuis-les 2 minutes à feu doux dans une poêle antiadhésive sans matière grasse, en remuant. Sers avec le concombre en tranches et le pain."
+  },
+  {
+   "code": "B5",
+   "type": "Petit-déjeuner",
+   "name": "Porridge à la poire",
+   "kcal": 270,
+   "protein": 13,
+   "ingredients": [
+    "40 g de flocons d’avoine",
+    "200 ml de lait écrémé",
+    "½ poire en dés",
+    "Cannelle"
+   ],
+   "recipe": "Cuis l’avoine dans le lait 4 à 5 minutes à feu doux, ajoute la poire et la cannelle."
+  },
+  {
+   "code": "B6",
+   "type": "Petit-déjeuner",
+   "name": "Tartines fromage frais, tomate et olives",
+   "kcal": 275,
+   "protein": 13,
+   "ingredients": [
+    "2 tranches de pain complet",
+    "50 g de fromage frais léger",
+    "1 tomate",
+    "5 olives",
+    "Origan ou thym"
+   ],
+   "recipe": "Tartine le fromage frais sur le pain, ajoute la tomate en rondelles et une pincée d’origan. Sers avec les olives."
+  },
+  {
+   "code": "S1",
+   "type": "Collation",
+   "name": "Pomme et amandes",
+   "kcal": 150,
+   "protein": 3,
+   "ingredients": [
+    "1 pomme",
+    "10 amandes nature"
+   ],
+   "recipe": "À croquer tel quel."
+  },
+  {
+   "code": "S2",
+   "type": "Collation",
+   "name": "Orange et amandes",
+   "kcal": 135,
+   "protein": 4,
+   "ingredients": [
+    "1 orange",
+    "10 amandes nature"
+   ],
+   "recipe": "À manger tel quel."
+  },
+  {
+   "code": "S3",
+   "type": "Collation",
+   "name": "Poire et amandes",
+   "kcal": 165,
+   "protein": 3,
+   "ingredients": [
+    "1 poire",
+    "10 amandes nature"
+   ],
+   "recipe": "À manger tel quel."
+  },
+  {
+   "code": "S4",
+   "type": "Collation",
+   "name": "Yaourt cannelle et miel",
+   "kcal": 75,
+   "protein": 5,
+   "ingredients": [
+    "1 yaourt nature 0 %",
+    "1 c. à café de miel",
+    "Cannelle"
+   ],
+   "recipe": "Mélange le miel et la cannelle dans le yaourt."
+  },
+  {
+   "code": "S5",
+   "type": "Collation",
+   "name": "Lben et dattes",
+   "kcal": 150,
+   "protein": 9,
+   "ingredients": [
+    "1 verre de lben (250 ml)",
+    "2 dattes"
+   ],
+   "recipe": "À prendre tel quel."
+  },
+  {
+   "code": "S6",
+   "type": "Collation",
+   "name": "Crudités et fromage frais",
+   "kcal": 105,
+   "protein": 9,
+   "ingredients": [
+    "1 carotte et ½ concombre en bâtonnets",
+    "1 fromage frais léger (100 g)"
+   ],
+   "recipe": "Trempe les bâtonnets dans le fromage frais poivré."
+  },
+  {
+   "code": "S7",
+   "type": "Collation",
+   "name": "Yaourt et dattes",
+   "kcal": 105,
+   "protein": 6,
+   "ingredients": [
+    "1 yaourt nature 0 %",
+    "2 dattes"
+   ],
+   "recipe": "À prendre tel quel."
+  },
+  {
+   "code": "S8",
+   "type": "Collation",
+   "name": "Mandarines et amandes",
+   "kcal": 140,
+   "protein": 4,
+   "ingredients": [
+    "2 mandarines",
+    "10 amandes nature"
+   ],
+   "recipe": "À manger tel quel."
+  },
+  {
+   "code": "L1",
+   "type": "Déjeuner",
+   "name": "Poulet grillé au citron, riz complet et salade",
+   "kcal": 485,
+   "protein": 40,
+   "ingredients": [
+    "150 g de blanc de poulet (cru)",
+    "50 g de riz complet sec (≈ 150 g cuit)",
+    "Laitue, 1 tomate, ½ concombre",
+    "½ citron, 1 gousse d’ail, paprika, cumin",
+    "2 c. à café d’huile d’olive"
+   ],
+   "recipe": "Mélange le jus de citron, l’ail écrasé, les épices et 1 c. à café d’huile ; fais mariner le poulet 15 minutes. Cuis le riz 25 à 30 minutes dans 3 fois son volume d’eau salée. Grille le poulet 6 à 7 minutes par face. Assaisonne la salade avec la 2e c. à café d’huile et du citron."
+  },
+  {
+   "code": "L2",
+   "type": "Déjeuner",
+   "name": "Lentilles en sauce, salade et pain complet",
+   "kcal": 445,
+   "protein": 22,
+   "ingredients": [
+    "60 g de lentilles sèches",
+    "½ oignon, 1 gousse d’ail, 1 tomate",
+    "1 c. à café de concentré de tomate",
+    "1 c. à café d’huile d’olive",
+    "Cumin, paprika, sel",
+    "1 tomate et ½ concombre pour la salade",
+    "1 tranche de pain complet"
+   ],
+   "recipe": "Fais revenir oignon et ail dans l’huile 2 minutes, ajoute la tomate râpée, le concentré et les épices. Ajoute les lentilles rincées et 3 fois leur volume d’eau, cuis 25 minutes à couvert. Sers avec la salade au citron et le pain."
+  },
+  {
+   "code": "L3",
+   "type": "Déjeuner",
+   "name": "Sardines grillées, haricots verts et pomme de terre",
+   "kcal": 420,
+   "protein": 37,
+   "ingredients": [
+    "150 g de sardines fraîches vidées",
+    "200 g de haricots verts",
+    "1 pomme de terre moyenne (150 g)",
+    "1 c. à café d’huile d’olive",
+    "Citron, ail, persil, cumin"
+   ],
+   "recipe": "Cuis la pomme de terre et les haricots à la vapeur 20 minutes. Frotte les sardines avec ail, cumin, persil et citron, grille-les 3 minutes par face. Arrose les légumes de l’huile et d’un filet de citron."
+  },
+  {
+   "code": "L4",
+   "type": "Déjeuner",
+   "name": "Poulet aux courgettes et poivron, frik",
+   "kcal": 455,
+   "protein": 44,
+   "ingredients": [
+    "150 g de blanc de poulet",
+    "1 courgette, 1 poivron, ½ oignon",
+    "1 c. à café de concentré de tomate",
+    "1 c. à café d’huile d’olive",
+    "50 g de frik ou boulgour sec (≈ 150 g cuit)",
+    "Paprika, cumin, sel"
+   ],
+   "recipe": "Cuis le frik 15 à 20 minutes dans 2,5 fois son volume d’eau salée. Fais dorer le poulet en lanières dans l’huile, ajoute les légumes en dés, le concentré dilué dans un peu d’eau et les épices. Laisse mijoter 15 minutes."
+  },
+  {
+   "code": "L5",
+   "type": "Déjeuner",
+   "name": "Couscous léger au poulet",
+   "kcal": 475,
+   "protein": 44,
+   "ingredients": [
+    "50 g de couscous complet sec (≈ 150 g cuit)",
+    "150 g de blanc de poulet",
+    "1 carotte, 1 courgette, ½ oignon, 1 tomate",
+    "1 c. à café de concentré de tomate",
+    "1 c. à café d’huile d’olive",
+    "Ras el hanout, sel"
+   ],
+   "recipe": "Fais revenir l’oignon et le poulet dans l’huile, ajoute la tomate râpée, le concentré, les épices et 500 ml d’eau, puis les légumes en gros morceaux. Cuis 25 minutes. Verse sur le couscous le même volume d’eau bouillante salée, couvre 5 minutes et égraine. Arrose de bouillon."
+  },
+  {
+   "code": "L6",
+   "type": "Déjeuner",
+   "name": "Poisson au four, légumes rôtis et riz complet",
+   "kcal": 480,
+   "protein": 35,
+   "ingredients": [
+    "150 g de poisson blanc (merlan ou colin)",
+    "1 courgette, 1 poivron, ½ oignon",
+    "50 g de riz complet sec (≈ 150 g cuit)",
+    "2 c. à café d’huile d’olive",
+    "Citron, ail, persil, paprika"
+   ],
+   "recipe": "Four à 200 °C. Mélange les légumes coupés avec 1 c. à café d’huile et le paprika, enfourne 15 minutes. Ajoute le poisson arrosé de citron, d’ail et du reste d’huile, cuis encore 12 à 15 minutes. Cuis le riz 25 à 30 minutes à côté."
+  },
+  {
+   "code": "L7",
+   "type": "Déjeuner",
+   "name": "Kefta grillée, haricots verts et pomme de terre au four",
+   "kcal": 410,
+   "protein": 38,
+   "ingredients": [
+    "150 g de viande hachée maigre (5 %)",
+    "¼ d’oignon râpé, persil, cumin, sel",
+    "200 g de haricots verts",
+    "1 pomme de terre moyenne (150 g)",
+    "1 c. à café d’huile d’olive, paprika"
+   ],
+   "recipe": "Coupe la pomme de terre en quartiers, mélange avec l’huile et le paprika, enfourne 30 minutes à 200 °C. Mélange la viande avec oignon, persil et cumin, forme 4 petites kefta et grille-les 4 minutes par face. Cuis les haricots à la vapeur 15 minutes."
+  },
+  {
+   "code": "L8",
+   "type": "Déjeuner",
+   "name": "Tajine de poulet aux petits pois",
+   "kcal": 480,
+   "protein": 47,
+   "ingredients": [
+    "150 g de blanc de poulet",
+    "150 g de petits pois",
+    "1 carotte, ½ oignon",
+    "1 c. à café d’huile d’olive",
+    "Curcuma, poivre, coriandre, sel",
+    "1 tranche de pain complet"
+   ],
+   "recipe": "Fais revenir l’oignon et le poulet en morceaux dans l’huile avec les épices 3 minutes. Ajoute la carotte en rondelles et 250 ml d’eau, couvre et cuis 15 minutes. Ajoute les petits pois et cuis encore 10 minutes. Parsème de coriandre et sers avec le pain."
+  },
+  {
+   "code": "L9",
+   "type": "Déjeuner",
+   "name": "Gratin de courgettes au thon",
+   "kcal": 475,
+   "protein": 48,
+   "ingredients": [
+    "2 courgettes râpées",
+    "2 œufs",
+    "1 boîte de thon au naturel (100 g égoutté)",
+    "50 ml de lait écrémé",
+    "1 c. à café d’huile d’olive",
+    "Persil, sel, poivre",
+    "1 tranche de pain complet"
+   ],
+   "recipe": "Four à 190 °C. Presse les courgettes râpées pour enlever l’eau. Mélange avec les œufs battus, le lait, le thon émietté, le persil, sel et poivre. Verse dans un petit plat huilé et cuis 30 minutes. Sers avec le pain."
+  },
+  {
+   "code": "D1",
+   "type": "Dîner",
+   "name": "Soupe de légumes et salade de thon",
+   "kcal": 405,
+   "protein": 35,
+   "ingredients": [
+    "1 courgette, 1 carotte, ½ oignon, ½ pomme de terre",
+    "1 c. à café d’huile d’olive pour la soupe",
+    "1 boîte de thon au naturel (100 g égoutté)",
+    "Laitue, ½ tomate, citron, 1 c. à café d’huile d’olive",
+    "1 tranche de pain complet"
+   ],
+   "recipe": "Fais revenir l’oignon 2 minutes dans l’huile, ajoute les légumes en dés, couvre d’eau (600 ml), sale et cuis 20 minutes, puis mixe. Prépare la salade avec le thon, le citron et la 2e c. à café d’huile."
+  },
+  {
+   "code": "D2",
+   "type": "Dîner",
+   "name": "Omelette aux épinards et salade",
+   "kcal": 350,
+   "protein": 23,
+   "ingredients": [
+    "2 œufs",
+    "200 g d’épinards",
+    "1 c. à café d’huile d’olive",
+    "1 gousse d’ail",
+    "Salade verte, citron",
+    "1 tranche de pain complet"
+   ],
+   "recipe": "Fais tomber les épinards avec l’ail dans l’huile 3 minutes. Verse les œufs battus salés et poivrés, cuis 3 à 4 minutes à feu moyen. Sers avec la salade au citron et le pain."
+  },
+  {
+   "code": "D3",
+   "type": "Dîner",
+   "name": "Chorba légère au poulet",
+   "kcal": 405,
+   "protein": 34,
+   "ingredients": [
+    "100 g de blanc de poulet",
+    "20 g de frik",
+    "½ oignon, 1 carotte, 1 courgette, 1 tomate, 1 branche de céleri",
+    "1 c. à café de concentré de tomate",
+    "1 c. à café d’huile d’olive",
+    "Coriandre, ras el hanout, sel",
+    "1 tranche de pain complet"
+   ],
+   "recipe": "Fais revenir l’oignon et le poulet en dés dans l’huile 3 minutes, ajoute la tomate râpée, le concentré, les épices, les légumes en petits dés et 700 ml d’eau. Cuis 20 minutes, ajoute le frik rincé et cuis encore 15 minutes. Parsème de coriandre."
+  },
+  {
+   "code": "D4",
+   "type": "Dîner",
+   "name": "Salade de pois chiches et œuf",
+   "kcal": 375,
+   "protein": 21,
+   "ingredients": [
+    "150 g de pois chiches cuits égouttés",
+    "1 tomate, ½ concombre, ¼ d’oignon",
+    "Persil, cumin, citron",
+    "1 c. à café d’huile d’olive",
+    "1 œuf"
+   ],
+   "recipe": "Cuis l’œuf 10 minutes. Rince les pois chiches, mélange-les avec les légumes en dés, le persil, le citron, l’huile et le cumin. Ajoute l’œuf coupé en quatre."
+  },
+  {
+   "code": "D5",
+   "type": "Dîner",
+   "name": "Soupe de lentilles au cumin",
+   "kcal": 345,
+   "protein": 17,
+   "ingredients": [
+    "40 g de lentilles sèches",
+    "1 carotte, ½ oignon, 1 tomate",
+    "1 c. à café d’huile d’olive",
+    "Cumin, sel",
+    "Salade verte, citron",
+    "1 tranche de pain complet"
+   ],
+   "recipe": "Fais revenir l’oignon dans l’huile, ajoute la carotte en dés, la tomate, les lentilles rincées, le cumin et 600 ml d’eau. Cuis 25 minutes puis mixe. Sers avec la salade et le pain."
+  },
+  {
+   "code": "D6",
+   "type": "Dîner",
+   "name": "Omelette aux champignons",
+   "kcal": 350,
+   "protein": 23,
+   "ingredients": [
+    "2 œufs",
+    "150 g de champignons",
+    "1 c. à café d’huile d’olive",
+    "Persil, sel, poivre",
+    "1 tomate en salade",
+    "1 tranche de pain complet"
+   ],
+   "recipe": "Fais sauter les champignons émincés dans l’huile 5 minutes. Verse les œufs battus avec le persil, cuis 3 à 4 minutes. Sers avec la tomate et le pain."
+  },
+  {
+   "code": "D7",
+   "type": "Dîner",
+   "name": "Soupe de légumes et thon",
+   "kcal": 340,
+   "protein": 34,
+   "ingredients": [
+    "1 courgette, 1 carotte, ½ oignon, ½ pomme de terre",
+    "1 c. à café d’huile d’olive",
+    "1 boîte de thon au naturel (100 g égoutté)",
+    "Citron",
+    "1 tranche de pain complet"
+   ],
+   "recipe": "Prépare la soupe comme pour la soupe de légumes et salade de thon. Sers le thon à côté avec un filet de citron."
+  },
+  {
+   "code": "D8",
+   "type": "Dîner",
+   "name": "Chakchouka aux œufs",
+   "kcal": 405,
+   "protein": 22,
+   "ingredients": [
+    "2 poivrons, 2 tomates, ½ oignon, 1 gousse d’ail",
+    "2 œufs",
+    "1 c. à café d’huile d’olive",
+    "Paprika, cumin, sel",
+    "1 tranche de pain complet"
+   ],
+   "recipe": "Fais revenir oignon, ail et poivrons en lanières dans l’huile 8 minutes. Ajoute les tomates en dés et les épices, mijote 10 minutes. Creuse deux puits, casse les œufs dedans, couvre et cuis 5 minutes. Sers avec le pain."
+  },
+  {
+   "code": "D9",
+   "type": "Dîner",
+   "name": "Salade composée thon, œuf et haricots verts",
+   "kcal": 415,
+   "protein": 39,
+   "ingredients": [
+    "1 boîte de thon au naturel (100 g égoutté)",
+    "1 œuf",
+    "150 g de haricots verts",
+    "1 tomate, 1 pomme de terre moyenne",
+    "Laitue",
+    "1 c. à café d’huile d’olive, citron, moutarde"
+   ],
+   "recipe": "Cuis la pomme de terre et les haricots à la vapeur 20 minutes, et l’œuf 10 minutes. Laisse tiédir, puis assemble sur la laitue avec la tomate et le thon. Assaisonne avec l’huile, le citron et un peu de moutarde."
+  }
+ ],
+ "plan": [
+  {
+   "week": 1,
+   "day": 0,
+   "slot": 0,
+   "dish": "B3"
+  },
+  {
+   "week": 1,
+   "day": 0,
+   "slot": 1,
+   "dish": "S3"
+  },
+  {
+   "week": 1,
+   "day": 0,
+   "slot": 2,
+   "dish": "L6"
+  },
+  {
+   "week": 1,
+   "day": 0,
+   "slot": 3,
+   "dish": "S6"
+  },
+  {
+   "week": 1,
+   "day": 0,
+   "slot": 4,
+   "dish": "D6"
+  },
+  {
+   "week": 1,
+   "day": 1,
+   "slot": 0,
+   "dish": "B1"
+  },
+  {
+   "week": 1,
+   "day": 1,
+   "slot": 1,
+   "dish": "S1"
+  },
+  {
+   "week": 1,
+   "day": 1,
+   "slot": 2,
+   "dish": "L7"
+  },
+  {
+   "week": 1,
+   "day": 1,
+   "slot": 3,
+   "dish": "S5"
+  },
+  {
+   "week": 1,
+   "day": 1,
+   "slot": 4,
+   "dish": "D7"
+  },
+  {
+   "week": 1,
+   "day": 2,
+   "slot": 0,
+   "dish": "B1"
+  },
+  {
+   "week": 1,
+   "day": 2,
+   "slot": 1,
+   "dish": "S1"
+  },
+  {
+   "week": 1,
+   "day": 2,
+   "slot": 2,
+   "dish": "L1"
+  },
+  {
+   "week": 1,
+   "day": 2,
+   "slot": 3,
+   "dish": "S4"
+  },
+  {
+   "week": 1,
+   "day": 2,
+   "slot": 4,
+   "dish": "D1"
+  },
+  {
+   "week": 1,
+   "day": 3,
+   "slot": 0,
+   "dish": "B2"
+  },
+  {
+   "week": 1,
+   "day": 3,
+   "slot": 1,
+   "dish": "S2"
+  },
+  {
+   "week": 1,
+   "day": 3,
+   "slot": 2,
+   "dish": "L2"
+  },
+  {
+   "week": 1,
+   "day": 3,
+   "slot": 3,
+   "dish": "S5"
+  },
+  {
+   "week": 1,
+   "day": 3,
+   "slot": 4,
+   "dish": "D2"
+  },
+  {
+   "week": 1,
+   "day": 4,
+   "slot": 0,
+   "dish": "B3"
+  },
+  {
+   "week": 1,
+   "day": 4,
+   "slot": 1,
+   "dish": "S3"
+  },
+  {
+   "week": 1,
+   "day": 4,
+   "slot": 2,
+   "dish": "L3"
+  },
+  {
+   "week": 1,
+   "day": 4,
+   "slot": 3,
+   "dish": "S6"
+  },
+  {
+   "week": 1,
+   "day": 4,
+   "slot": 4,
+   "dish": "D3"
+  },
+  {
+   "week": 1,
+   "day": 5,
+   "slot": 0,
+   "dish": "B4"
+  },
+  {
+   "week": 1,
+   "day": 5,
+   "slot": 1,
+   "dish": "S1"
+  },
+  {
+   "week": 1,
+   "day": 5,
+   "slot": 2,
+   "dish": "L4"
+  },
+  {
+   "week": 1,
+   "day": 5,
+   "slot": 3,
+   "dish": "S5"
+  },
+  {
+   "week": 1,
+   "day": 5,
+   "slot": 4,
+   "dish": "D4"
+  },
+  {
+   "week": 1,
+   "day": 6,
+   "slot": 0,
+   "dish": "B2"
+  },
+  {
+   "week": 1,
+   "day": 6,
+   "slot": 1,
+   "dish": "S2"
+  },
+  {
+   "week": 1,
+   "day": 6,
+   "slot": 2,
+   "dish": "L5"
+  },
+  {
+   "week": 1,
+   "day": 6,
+   "slot": 3,
+   "dish": "S7"
+  },
+  {
+   "week": 1,
+   "day": 6,
+   "slot": 4,
+   "dish": "D5"
+  },
+  {
+   "week": 2,
+   "day": 0,
+   "slot": 0,
+   "dish": "B6"
+  },
+  {
+   "week": 2,
+   "day": 0,
+   "slot": 1,
+   "dish": "S8"
+  },
+  {
+   "week": 2,
+   "day": 0,
+   "slot": 2,
+   "dish": "L8"
+  },
+  {
+   "week": 2,
+   "day": 0,
+   "slot": 3,
+   "dish": "S4"
+  },
+  {
+   "week": 2,
+   "day": 0,
+   "slot": 4,
+   "dish": "D8"
+  },
+  {
+   "week": 2,
+   "day": 1,
+   "slot": 0,
+   "dish": "B1"
+  },
+  {
+   "week": 2,
+   "day": 1,
+   "slot": 1,
+   "dish": "S1"
+  },
+  {
+   "week": 2,
+   "day": 1,
+   "slot": 2,
+   "dish": "L9"
+  },
+  {
+   "week": 2,
+   "day": 1,
+   "slot": 3,
+   "dish": "S5"
+  },
+  {
+   "week": 2,
+   "day": 1,
+   "slot": 4,
+   "dish": "D2"
+  },
+  {
+   "week": 2,
+   "day": 2,
+   "slot": 0,
+   "dish": "B5"
+  },
+  {
+   "week": 2,
+   "day": 2,
+   "slot": 1,
+   "dish": "S3"
+  },
+  {
+   "week": 2,
+   "day": 2,
+   "slot": 2,
+   "dish": "L1"
+  },
+  {
+   "week": 2,
+   "day": 2,
+   "slot": 3,
+   "dish": "S6"
+  },
+  {
+   "week": 2,
+   "day": 2,
+   "slot": 4,
+   "dish": "D5"
+  },
+  {
+   "week": 2,
+   "day": 3,
+   "slot": 0,
+   "dish": "B4"
+  },
+  {
+   "week": 2,
+   "day": 3,
+   "slot": 1,
+   "dish": "S8"
+  },
+  {
+   "week": 2,
+   "day": 3,
+   "slot": 2,
+   "dish": "L7"
+  },
+  {
+   "week": 2,
+   "day": 3,
+   "slot": 3,
+   "dish": "S7"
+  },
+  {
+   "week": 2,
+   "day": 3,
+   "slot": 4,
+   "dish": "D9"
+  },
+  {
+   "week": 2,
+   "day": 4,
+   "slot": 0,
+   "dish": "B3"
+  },
+  {
+   "week": 2,
+   "day": 4,
+   "slot": 1,
+   "dish": "S1"
+  },
+  {
+   "week": 2,
+   "day": 4,
+   "slot": 2,
+   "dish": "L5"
+  },
+  {
+   "week": 2,
+   "day": 4,
+   "slot": 3,
+   "dish": "S4"
+  },
+  {
+   "week": 2,
+   "day": 4,
+   "slot": 4,
+   "dish": "D6"
+  },
+  {
+   "week": 2,
+   "day": 5,
+   "slot": 0,
+   "dish": "B2"
+  },
+  {
+   "week": 2,
+   "day": 5,
+   "slot": 1,
+   "dish": "S2"
+  },
+  {
+   "week": 2,
+   "day": 5,
+   "slot": 2,
+   "dish": "L3"
+  },
+  {
+   "week": 2,
+   "day": 5,
+   "slot": 3,
+   "dish": "S5"
+  },
+  {
+   "week": 2,
+   "day": 5,
+   "slot": 4,
+   "dish": "D8"
+  },
+  {
+   "week": 2,
+   "day": 6,
+   "slot": 0,
+   "dish": "B6"
+  },
+  {
+   "week": 2,
+   "day": 6,
+   "slot": 1,
+   "dish": "S1"
+  },
+  {
+   "week": 2,
+   "day": 6,
+   "slot": 2,
+   "dish": "L4"
+  },
+  {
+   "week": 2,
+   "day": 6,
+   "slot": 3,
+   "dish": "S6"
+  },
+  {
+   "week": 2,
+   "day": 6,
+   "slot": 4,
+   "dish": "D3"
+  },
+  {
+   "week": 3,
+   "day": 0,
+   "slot": 0,
+   "dish": "B2"
+  },
+  {
+   "week": 3,
+   "day": 0,
+   "slot": 1,
+   "dish": "S1"
+  },
+  {
+   "week": 3,
+   "day": 0,
+   "slot": 2,
+   "dish": "L6"
+  },
+  {
+   "week": 3,
+   "day": 0,
+   "slot": 3,
+   "dish": "S5"
+  },
+  {
+   "week": 3,
+   "day": 0,
+   "slot": 4,
+   "dish": "D4"
+  },
+  {
+   "week": 3,
+   "day": 1,
+   "slot": 0,
+   "dish": "B1"
+  },
+  {
+   "week": 3,
+   "day": 1,
+   "slot": 1,
+   "dish": "S8"
+  },
+  {
+   "week": 3,
+   "day": 1,
+   "slot": 2,
+   "dish": "L5"
+  },
+  {
+   "week": 3,
+   "day": 1,
+   "slot": 3,
+   "dish": "S6"
+  },
+  {
+   "week": 3,
+   "day": 1,
+   "slot": 4,
+   "dish": "D2"
+  },
+  {
+   "week": 3,
+   "day": 2,
+   "slot": 0,
+   "dish": "B3"
+  },
+  {
+   "week": 3,
+   "day": 2,
+   "slot": 1,
+   "dish": "S2"
+  },
+  {
+   "week": 3,
+   "day": 2,
+   "slot": 2,
+   "dish": "L8"
+  },
+  {
+   "week": 3,
+   "day": 2,
+   "slot": 3,
+   "dish": "S4"
+  },
+  {
+   "week": 3,
+   "day": 2,
+   "slot": 4,
+   "dish": "D7"
+  },
+  {
+   "week": 3,
+   "day": 3,
+   "slot": 0,
+   "dish": "B4"
+  },
+  {
+   "week": 3,
+   "day": 3,
+   "slot": 1,
+   "dish": "S3"
+  },
+  {
+   "week": 3,
+   "day": 3,
+   "slot": 2,
+   "dish": "L2"
+  },
+  {
+   "week": 3,
+   "day": 3,
+   "slot": 3,
+   "dish": "S5"
+  },
+  {
+   "week": 3,
+   "day": 3,
+   "slot": 4,
+   "dish": "D6"
+  },
+  {
+   "week": 3,
+   "day": 4,
+   "slot": 0,
+   "dish": "B5"
+  },
+  {
+   "week": 3,
+   "day": 4,
+   "slot": 1,
+   "dish": "S1"
+  },
+  {
+   "week": 3,
+   "day": 4,
+   "slot": 2,
+   "dish": "L9"
+  },
+  {
+   "week": 3,
+   "day": 4,
+   "slot": 3,
+   "dish": "S7"
+  },
+  {
+   "week": 3,
+   "day": 4,
+   "slot": 4,
+   "dish": "D5"
+  },
+  {
+   "week": 3,
+   "day": 5,
+   "slot": 0,
+   "dish": "B6"
+  },
+  {
+   "week": 3,
+   "day": 5,
+   "slot": 1,
+   "dish": "S8"
+  },
+  {
+   "week": 3,
+   "day": 5,
+   "slot": 2,
+   "dish": "L1"
+  },
+  {
+   "week": 3,
+   "day": 5,
+   "slot": 3,
+   "dish": "S6"
+  },
+  {
+   "week": 3,
+   "day": 5,
+   "slot": 4,
+   "dish": "D8"
+  },
+  {
+   "week": 3,
+   "day": 6,
+   "slot": 0,
+   "dish": "B1"
+  },
+  {
+   "week": 3,
+   "day": 6,
+   "slot": 1,
+   "dish": "S2"
+  },
+  {
+   "week": 3,
+   "day": 6,
+   "slot": 2,
+   "dish": "L7"
+  },
+  {
+   "week": 3,
+   "day": 6,
+   "slot": 3,
+   "dish": "S5"
+  },
+  {
+   "week": 3,
+   "day": 6,
+   "slot": 4,
+   "dish": "D9"
+  },
+  {
+   "week": 4,
+   "day": 0,
+   "slot": 0,
+   "dish": "B6"
+  },
+  {
+   "week": 4,
+   "day": 0,
+   "slot": 1,
+   "dish": "S1"
+  },
+  {
+   "week": 4,
+   "day": 0,
+   "slot": 2,
+   "dish": "L3"
+  },
+  {
+   "week": 4,
+   "day": 0,
+   "slot": 3,
+   "dish": "S4"
+  },
+  {
+   "week": 4,
+   "day": 0,
+   "slot": 4,
+   "dish": "D3"
+  },
+  {
+   "week": 4,
+   "day": 1,
+   "slot": 0,
+   "dish": "B3"
+  },
+  {
+   "week": 4,
+   "day": 1,
+   "slot": 1,
+   "dish": "S8"
+  },
+  {
+   "week": 4,
+   "day": 1,
+   "slot": 2,
+   "dish": "L4"
+  },
+  {
+   "week": 4,
+   "day": 1,
+   "slot": 3,
+   "dish": "S5"
+  },
+  {
+   "week": 4,
+   "day": 1,
+   "slot": 4,
+   "dish": "D1"
+  },
+  {
+   "week": 4,
+   "day": 2,
+   "slot": 0,
+   "dish": "B1"
+  },
+  {
+   "week": 4,
+   "day": 2,
+   "slot": 1,
+   "dish": "S3"
+  },
+  {
+   "week": 4,
+   "day": 2,
+   "slot": 2,
+   "dish": "L9"
+  },
+  {
+   "week": 4,
+   "day": 2,
+   "slot": 3,
+   "dish": "S6"
+  },
+  {
+   "week": 4,
+   "day": 2,
+   "slot": 4,
+   "dish": "D4"
+  },
+  {
+   "week": 4,
+   "day": 3,
+   "slot": 0,
+   "dish": "B2"
+  },
+  {
+   "week": 4,
+   "day": 3,
+   "slot": 1,
+   "dish": "S1"
+  },
+  {
+   "week": 4,
+   "day": 3,
+   "slot": 2,
+   "dish": "L8"
+  },
+  {
+   "week": 4,
+   "day": 3,
+   "slot": 3,
+   "dish": "S7"
+  },
+  {
+   "week": 4,
+   "day": 3,
+   "slot": 4,
+   "dish": "D6"
+  },
+  {
+   "week": 4,
+   "day": 4,
+   "slot": 0,
+   "dish": "B4"
+  },
+  {
+   "week": 4,
+   "day": 4,
+   "slot": 1,
+   "dish": "S2"
+  },
+  {
+   "week": 4,
+   "day": 4,
+   "slot": 2,
+   "dish": "L6"
+  },
+  {
+   "week": 4,
+   "day": 4,
+   "slot": 3,
+   "dish": "S5"
+  },
+  {
+   "week": 4,
+   "day": 4,
+   "slot": 4,
+   "dish": "D2"
+  },
+  {
+   "week": 4,
+   "day": 5,
+   "slot": 0,
+   "dish": "B5"
+  },
+  {
+   "week": 4,
+   "day": 5,
+   "slot": 1,
+   "dish": "S8"
+  },
+  {
+   "week": 4,
+   "day": 5,
+   "slot": 2,
+   "dish": "L5"
+  },
+  {
+   "week": 4,
+   "day": 5,
+   "slot": 3,
+   "dish": "S4"
+  },
+  {
+   "week": 4,
+   "day": 5,
+   "slot": 4,
+   "dish": "D9"
+  },
+  {
+   "week": 4,
+   "day": 6,
+   "slot": 0,
+   "dish": "B3"
+  },
+  {
+   "week": 4,
+   "day": 6,
+   "slot": 1,
+   "dish": "S1"
+  },
+  {
+   "week": 4,
+   "day": 6,
+   "slot": 2,
+   "dish": "L2"
+  },
+  {
+   "week": 4,
+   "day": 6,
+   "slot": 3,
+   "dish": "S6"
+  },
+  {
+   "week": 4,
+   "day": 6,
+   "slot": 4,
+   "dish": "D8"
+  }
+ ],
+ "shopping": [
+  {
+   "week": 1,
+   "key": "poulet",
+   "category": "Protéines",
+   "label": "Blanc de poulet sans peau",
+   "qty": "550 g",
+   "position": 0
+  },
+  {
+   "week": 1,
+   "key": "poisson",
+   "category": "Protéines",
+   "label": "Poisson blanc (merlan ou colin)",
+   "qty": "150 g",
+   "position": 1
+  },
+  {
+   "week": 1,
+   "key": "sardine",
+   "category": "Protéines",
+   "label": "Sardines fraîches",
+   "qty": "150 g",
+   "position": 2
+  },
+  {
+   "week": 1,
+   "key": "thon",
+   "category": "Protéines",
+   "label": "Thon au naturel (boîtes)",
+   "qty": "2",
+   "position": 3
+  },
+  {
+   "week": 1,
+   "key": "viande",
+   "category": "Protéines",
+   "label": "Viande hachée maigre (5 %)",
+   "qty": "150 g",
+   "position": 4
+  },
+  {
+   "week": 1,
+   "key": "oeuf",
+   "category": "Protéines",
+   "label": "Œufs",
+   "qty": "11",
+   "position": 5
+  },
+  {
+   "week": 1,
+   "key": "fromage",
+   "category": "Produits laitiers",
+   "label": "Fromage frais léger (pots de 100 g)",
+   "qty": "2",
+   "position": 6
+  },
+  {
+   "week": 1,
+   "key": "lait",
+   "category": "Produits laitiers",
+   "label": "Lait écrémé",
+   "qty": "1 L",
+   "position": 7
+  },
+  {
+   "week": 1,
+   "key": "lben",
+   "category": "Produits laitiers",
+   "label": "Lben",
+   "qty": "1 L",
+   "position": 8
+  },
+  {
+   "week": 1,
+   "key": "yaourt",
+   "category": "Produits laitiers",
+   "label": "Yaourts nature 0 %",
+   "qty": "4",
+   "position": 9
+  },
+  {
+   "week": 1,
+   "key": "couscous",
+   "category": "Féculents et légumineuses",
+   "label": "Couscous complet",
+   "qty": "50 g",
+   "position": 10
+  },
+  {
+   "week": 1,
+   "key": "avoine",
+   "category": "Féculents et légumineuses",
+   "label": "Flocons d’avoine",
+   "qty": "200 g",
+   "position": 11
+  },
+  {
+   "week": 1,
+   "key": "frik",
+   "category": "Féculents et légumineuses",
+   "label": "Frik ou boulgour",
+   "qty": "100 g",
+   "position": 12
+  },
+  {
+   "week": 1,
+   "key": "lentilles",
+   "category": "Féculents et légumineuses",
+   "label": "Lentilles sèches",
+   "qty": "100 g",
+   "position": 13
+  },
+  {
+   "week": 1,
+   "key": "pain",
+   "category": "Féculents et légumineuses",
+   "label": "Pain complet ou galette d’orge",
+   "qty": "10 tranches",
+   "position": 14
+  },
+  {
+   "week": 1,
+   "key": "pchiche",
+   "category": "Féculents et légumineuses",
+   "label": "Pois chiches (boîtes de 400 g)",
+   "qty": "1",
+   "position": 15
+  },
+  {
+   "week": 1,
+   "key": "riz",
+   "category": "Féculents et légumineuses",
+   "label": "Riz complet",
+   "qty": "100 g",
+   "position": 16
+  },
+  {
+   "week": 1,
+   "key": "ail",
+   "category": "Légumes",
+   "label": "Ail (têtes)",
+   "qty": "1",
+   "position": 17
+  },
+  {
+   "week": 1,
+   "key": "carotte",
+   "category": "Légumes",
+   "label": "Carottes",
+   "qty": "7",
+   "position": 18
+  },
+  {
+   "week": 1,
+   "key": "champi",
+   "category": "Légumes",
+   "label": "Champignons",
+   "qty": "150 g",
+   "position": 19
+  },
+  {
+   "week": 1,
+   "key": "concombre",
+   "category": "Légumes",
+   "label": "Concombres",
+   "qty": "3",
+   "position": 20
+  },
+  {
+   "week": 1,
+   "key": "coriandre",
+   "category": "Légumes",
+   "label": "Coriandre (bottes)",
+   "qty": "1",
+   "position": 21
+  },
+  {
+   "week": 1,
+   "key": "courgette",
+   "category": "Légumes",
+   "label": "Courgettes",
+   "qty": "6",
+   "position": 22
+  },
+  {
+   "week": 1,
+   "key": "celeri",
+   "category": "Légumes",
+   "label": "Céleri (botte)",
+   "qty": "1",
+   "position": 23
+  },
+  {
+   "week": 1,
+   "key": "hv",
+   "category": "Légumes",
+   "label": "Haricots verts",
+   "qty": "400 g",
+   "position": 24
+  },
+  {
+   "week": 1,
+   "key": "laitue",
+   "category": "Légumes",
+   "label": "Laitues",
+   "qty": "1",
+   "position": 25
+  },
+  {
+   "week": 1,
+   "key": "oignon",
+   "category": "Légumes",
+   "label": "Oignons",
+   "qty": "5",
+   "position": 26
+  },
+  {
+   "week": 1,
+   "key": "persil",
+   "category": "Légumes",
+   "label": "Persil (bottes)",
+   "qty": "1",
+   "position": 27
+  },
+  {
+   "week": 1,
+   "key": "poivron",
+   "category": "Légumes",
+   "label": "Poivrons",
+   "qty": "2",
+   "position": 28
+  },
+  {
+   "week": 1,
+   "key": "pdt",
+   "category": "Légumes",
+   "label": "Pommes de terre moyennes",
+   "qty": "3",
+   "position": 29
+  },
+  {
+   "week": 1,
+   "key": "tomate",
+   "category": "Légumes",
+   "label": "Tomates",
+   "qty": "11",
+   "position": 30
+  },
+  {
+   "week": 1,
+   "key": "epinard",
+   "category": "Légumes",
+   "label": "Épinards",
+   "qty": "200 g",
+   "position": 31
+  },
+  {
+   "week": 1,
+   "key": "amande",
+   "category": "Fruits et oléagineux",
+   "label": "Amandes nature non salées",
+   "qty": "100 g",
+   "position": 32
+  },
+  {
+   "week": 1,
+   "key": "citron",
+   "category": "Fruits et oléagineux",
+   "label": "Citrons",
+   "qty": "2",
+   "position": 33
+  },
+  {
+   "week": 1,
+   "key": "datte",
+   "category": "Fruits et oléagineux",
+   "label": "Dattes",
+   "qty": "8",
+   "position": 34
+  },
+  {
+   "week": 1,
+   "key": "orange",
+   "category": "Fruits et oléagineux",
+   "label": "Oranges",
+   "qty": "2",
+   "position": 35
+  },
+  {
+   "week": 1,
+   "key": "poire",
+   "category": "Fruits et oléagineux",
+   "label": "Poires",
+   "qty": "2",
+   "position": 36
+  },
+  {
+   "week": 1,
+   "key": "pomme",
+   "category": "Fruits et oléagineux",
+   "label": "Pommes",
+   "qty": "5",
+   "position": 37
+  },
+  {
+   "week": 1,
+   "key": "p0",
+   "category": "Placard (à vérifier)",
+   "label": "Huile d’olive",
+   "qty": "",
+   "position": 38
+  },
+  {
+   "week": 1,
+   "key": "p1",
+   "category": "Placard (à vérifier)",
+   "label": "Concentré de tomate",
+   "qty": "",
+   "position": 39
+  },
+  {
+   "week": 1,
+   "key": "p2",
+   "category": "Placard (à vérifier)",
+   "label": "Miel",
+   "qty": "",
+   "position": 40
+  },
+  {
+   "week": 1,
+   "key": "p3",
+   "category": "Placard (à vérifier)",
+   "label": "Cumin, paprika, ras el hanout, cannelle",
+   "qty": "",
+   "position": 41
+  },
+  {
+   "week": 1,
+   "key": "p4",
+   "category": "Placard (à vérifier)",
+   "label": "Sel, poivre",
+   "qty": "",
+   "position": 42
+  },
+  {
+   "week": 1,
+   "key": "p5",
+   "category": "Placard (à vérifier)",
+   "label": "Thé vert ou infusions",
+   "qty": "",
+   "position": 43
+  },
+  {
+   "week": 2,
+   "key": "poulet",
+   "category": "Protéines",
+   "label": "Blanc de poulet sans peau",
+   "qty": "700 g",
+   "position": 0
+  },
+  {
+   "week": 2,
+   "key": "sardine",
+   "category": "Protéines",
+   "label": "Sardines fraîches",
+   "qty": "150 g",
+   "position": 1
+  },
+  {
+   "week": 2,
+   "key": "thon",
+   "category": "Protéines",
+   "label": "Thon au naturel (boîtes)",
+   "qty": "2",
+   "position": 2
+  },
+  {
+   "week": 2,
+   "key": "viande",
+   "category": "Protéines",
+   "label": "Viande hachée maigre (5 %)",
+   "qty": "150 g",
+   "position": 3
+  },
+  {
+   "week": 2,
+   "key": "oeuf",
+   "category": "Protéines",
+   "label": "Œufs",
+   "qty": "15",
+   "position": 4
+  },
+  {
+   "week": 2,
+   "key": "fromage",
+   "category": "Produits laitiers",
+   "label": "Fromage frais léger (pots de 100 g)",
+   "qty": "3",
+   "position": 5
+  },
+  {
+   "week": 2,
+   "key": "lait",
+   "category": "Produits laitiers",
+   "label": "Lait écrémé",
+   "qty": "1 L",
+   "position": 6
+  },
+  {
+   "week": 2,
+   "key": "lben",
+   "category": "Produits laitiers",
+   "label": "Lben",
+   "qty": "1 L",
+   "position": 7
+  },
+  {
+   "week": 2,
+   "key": "yaourt",
+   "category": "Produits laitiers",
+   "label": "Yaourts nature 0 %",
+   "qty": "4",
+   "position": 8
+  },
+  {
+   "week": 2,
+   "key": "couscous",
+   "category": "Féculents et légumineuses",
+   "label": "Couscous complet",
+   "qty": "50 g",
+   "position": 9
+  },
+  {
+   "week": 2,
+   "key": "avoine",
+   "category": "Féculents et légumineuses",
+   "label": "Flocons d’avoine",
+   "qty": "150 g",
+   "position": 10
+  },
+  {
+   "week": 2,
+   "key": "frik",
+   "category": "Féculents et légumineuses",
+   "label": "Frik ou boulgour",
+   "qty": "100 g",
+   "position": 11
+  },
+  {
+   "week": 2,
+   "key": "lentilles",
+   "category": "Féculents et légumineuses",
+   "label": "Lentilles sèches",
+   "qty": "50 g",
+   "position": 12
+  },
+  {
+   "week": 2,
+   "key": "pain",
+   "category": "Féculents et légumineuses",
+   "label": "Pain complet ou galette d’orge",
+   "qty": "14 tranches",
+   "position": 13
+  },
+  {
+   "week": 2,
+   "key": "riz",
+   "category": "Féculents et légumineuses",
+   "label": "Riz complet",
+   "qty": "50 g",
+   "position": 14
+  },
+  {
+   "week": 2,
+   "key": "ail",
+   "category": "Légumes",
+   "label": "Ail (têtes)",
+   "qty": "1",
+   "position": 15
+  },
+  {
+   "week": 2,
+   "key": "carotte",
+   "category": "Légumes",
+   "label": "Carottes",
+   "qty": "6",
+   "position": 16
+  },
+  {
+   "week": 2,
+   "key": "champi",
+   "category": "Légumes",
+   "label": "Champignons",
+   "qty": "150 g",
+   "position": 17
+  },
+  {
+   "week": 2,
+   "key": "concombre",
+   "category": "Légumes",
+   "label": "Concombres",
+   "qty": "2",
+   "position": 18
+  },
+  {
+   "week": 2,
+   "key": "coriandre",
+   "category": "Légumes",
+   "label": "Coriandre (bottes)",
+   "qty": "1",
+   "position": 19
+  },
+  {
+   "week": 2,
+   "key": "courgette",
+   "category": "Légumes",
+   "label": "Courgettes",
+   "qty": "5",
+   "position": 20
+  },
+  {
+   "week": 2,
+   "key": "celeri",
+   "category": "Légumes",
+   "label": "Céleri (botte)",
+   "qty": "1",
+   "position": 21
+  },
+  {
+   "week": 2,
+   "key": "hv",
+   "category": "Légumes",
+   "label": "Haricots verts",
+   "qty": "550 g",
+   "position": 22
+  },
+  {
+   "week": 2,
+   "key": "laitue",
+   "category": "Légumes",
+   "label": "Laitues",
+   "qty": "1",
+   "position": 23
+  },
+  {
+   "week": 2,
+   "key": "oignon",
+   "category": "Légumes",
+   "label": "Oignons",
+   "qty": "4",
+   "position": 24
+  },
+  {
+   "week": 2,
+   "key": "persil",
+   "category": "Légumes",
+   "label": "Persil (bottes)",
+   "qty": "1",
+   "position": 25
+  },
+  {
+   "week": 2,
+   "key": "ppois",
+   "category": "Légumes",
+   "label": "Petits pois surgelés",
+   "qty": "150 g",
+   "position": 26
+  },
+  {
+   "week": 2,
+   "key": "poivron",
+   "category": "Légumes",
+   "label": "Poivrons",
+   "qty": "5",
+   "position": 27
+  },
+  {
+   "week": 2,
+   "key": "pdt",
+   "category": "Légumes",
+   "label": "Pommes de terre moyennes",
+   "qty": "3",
+   "position": 28
+  },
+  {
+   "week": 2,
+   "key": "tomate",
+   "category": "Légumes",
+   "label": "Tomates",
+   "qty": "13",
+   "position": 29
+  },
+  {
+   "week": 2,
+   "key": "epinard",
+   "category": "Légumes",
+   "label": "Épinards",
+   "qty": "200 g",
+   "position": 30
+  },
+  {
+   "week": 2,
+   "key": "amande",
+   "category": "Fruits et oléagineux",
+   "label": "Amandes nature non salées",
+   "qty": "100 g",
+   "position": 31
+  },
+  {
+   "week": 2,
+   "key": "citron",
+   "category": "Fruits et oléagineux",
+   "label": "Citrons",
+   "qty": "2",
+   "position": 32
+  },
+  {
+   "week": 2,
+   "key": "datte",
+   "category": "Fruits et oléagineux",
+   "label": "Dattes",
+   "qty": "6",
+   "position": 33
+  },
+  {
+   "week": 2,
+   "key": "mandarine",
+   "category": "Fruits et oléagineux",
+   "label": "Mandarines",
+   "qty": "4",
+   "position": 34
+  },
+  {
+   "week": 2,
+   "key": "olive",
+   "category": "Fruits et oléagineux",
+   "label": "Olives",
+   "qty": "1 petit bocal",
+   "position": 35
+  },
+  {
+   "week": 2,
+   "key": "orange",
+   "category": "Fruits et oléagineux",
+   "label": "Oranges",
+   "qty": "1",
+   "position": 36
+  },
+  {
+   "week": 2,
+   "key": "poire",
+   "category": "Fruits et oléagineux",
+   "label": "Poires",
+   "qty": "2",
+   "position": 37
+  },
+  {
+   "week": 2,
+   "key": "pomme",
+   "category": "Fruits et oléagineux",
+   "label": "Pommes",
+   "qty": "4",
+   "position": 38
+  },
+  {
+   "week": 2,
+   "key": "p0",
+   "category": "Placard (à vérifier)",
+   "label": "Huile d’olive",
+   "qty": "",
+   "position": 39
+  },
+  {
+   "week": 2,
+   "key": "p1",
+   "category": "Placard (à vérifier)",
+   "label": "Concentré de tomate",
+   "qty": "",
+   "position": 40
+  },
+  {
+   "week": 2,
+   "key": "p2",
+   "category": "Placard (à vérifier)",
+   "label": "Miel",
+   "qty": "",
+   "position": 41
+  },
+  {
+   "week": 2,
+   "key": "p3",
+   "category": "Placard (à vérifier)",
+   "label": "Cumin, paprika, ras el hanout, cannelle",
+   "qty": "",
+   "position": 42
+  },
+  {
+   "week": 2,
+   "key": "p4",
+   "category": "Placard (à vérifier)",
+   "label": "Sel, poivre",
+   "qty": "",
+   "position": 43
+  },
+  {
+   "week": 2,
+   "key": "p5",
+   "category": "Placard (à vérifier)",
+   "label": "Thé vert ou infusions",
+   "qty": "",
+   "position": 44
+  },
+  {
+   "week": 3,
+   "key": "poulet",
+   "category": "Protéines",
+   "label": "Blanc de poulet sans peau",
+   "qty": "450 g",
+   "position": 0
+  },
+  {
+   "week": 3,
+   "key": "poisson",
+   "category": "Protéines",
+   "label": "Poisson blanc (merlan ou colin)",
+   "qty": "150 g",
+   "position": 1
+  },
+  {
+   "week": 3,
+   "key": "thon",
+   "category": "Protéines",
+   "label": "Thon au naturel (boîtes)",
+   "qty": "3",
+   "position": 2
+  },
+  {
+   "week": 3,
+   "key": "viande",
+   "category": "Protéines",
+   "label": "Viande hachée maigre (5 %)",
+   "qty": "150 g",
+   "position": 3
+  },
+  {
+   "week": 3,
+   "key": "oeuf",
+   "category": "Protéines",
+   "label": "Œufs",
+   "qty": "16",
+   "position": 4
+  },
+  {
+   "week": 3,
+   "key": "fromage",
+   "category": "Produits laitiers",
+   "label": "Fromage frais léger (pots de 100 g)",
+   "qty": "3",
+   "position": 5
+  },
+  {
+   "week": 3,
+   "key": "lait",
+   "category": "Produits laitiers",
+   "label": "Lait écrémé",
+   "qty": "1 L",
+   "position": 6
+  },
+  {
+   "week": 3,
+   "key": "lben",
+   "category": "Produits laitiers",
+   "label": "Lben",
+   "qty": "1 L",
+   "position": 7
+  },
+  {
+   "week": 3,
+   "key": "yaourt",
+   "category": "Produits laitiers",
+   "label": "Yaourts nature 0 %",
+   "qty": "3",
+   "position": 8
+  },
+  {
+   "week": 3,
+   "key": "couscous",
+   "category": "Féculents et légumineuses",
+   "label": "Couscous complet",
+   "qty": "50 g",
+   "position": 9
+  },
+  {
+   "week": 3,
+   "key": "avoine",
+   "category": "Féculents et légumineuses",
+   "label": "Flocons d’avoine",
+   "qty": "150 g",
+   "position": 10
+  },
+  {
+   "week": 3,
+   "key": "lentilles",
+   "category": "Féculents et légumineuses",
+   "label": "Lentilles sèches",
+   "qty": "100 g",
+   "position": 11
+  },
+  {
+   "week": 3,
+   "key": "pain",
+   "category": "Féculents et légumineuses",
+   "label": "Pain complet ou galette d’orge",
+   "qty": "13 tranches",
+   "position": 12
+  },
+  {
+   "week": 3,
+   "key": "pchiche",
+   "category": "Féculents et légumineuses",
+   "label": "Pois chiches (boîtes de 400 g)",
+   "qty": "1",
+   "position": 13
+  },
+  {
+   "week": 3,
+   "key": "riz",
+   "category": "Féculents et légumineuses",
+   "label": "Riz complet",
+   "qty": "100 g",
+   "position": 14
+  },
+  {
+   "week": 3,
+   "key": "ail",
+   "category": "Légumes",
+   "label": "Ail (têtes)",
+   "qty": "1",
+   "position": 15
+  },
+  {
+   "week": 3,
+   "key": "carotte",
+   "category": "Légumes",
+   "label": "Carottes",
+   "qty": "6",
+   "position": 16
+  },
+  {
+   "week": 3,
+   "key": "champi",
+   "category": "Légumes",
+   "label": "Champignons",
+   "qty": "150 g",
+   "position": 17
+  },
+  {
+   "week": 3,
+   "key": "concombre",
+   "category": "Légumes",
+   "label": "Concombres",
+   "qty": "3",
+   "position": 18
+  },
+  {
+   "week": 3,
+   "key": "coriandre",
+   "category": "Légumes",
+   "label": "Coriandre (bottes)",
+   "qty": "1",
+   "position": 19
+  },
+  {
+   "week": 3,
+   "key": "courgette",
+   "category": "Légumes",
+   "label": "Courgettes",
+   "qty": "5",
+   "position": 20
+  },
+  {
+   "week": 3,
+   "key": "hv",
+   "category": "Légumes",
+   "label": "Haricots verts",
+   "qty": "350 g",
+   "position": 21
+  },
+  {
+   "week": 3,
+   "key": "laitue",
+   "category": "Légumes",
+   "label": "Laitues",
+   "qty": "1",
+   "position": 22
+  },
+  {
+   "week": 3,
+   "key": "oignon",
+   "category": "Légumes",
+   "label": "Oignons",
+   "qty": "4",
+   "position": 23
+  },
+  {
+   "week": 3,
+   "key": "persil",
+   "category": "Légumes",
+   "label": "Persil (bottes)",
+   "qty": "1",
+   "position": 24
+  },
+  {
+   "week": 3,
+   "key": "ppois",
+   "category": "Légumes",
+   "label": "Petits pois surgelés",
+   "qty": "150 g",
+   "position": 25
+  },
+  {
+   "week": 3,
+   "key": "poivron",
+   "category": "Légumes",
+   "label": "Poivrons",
+   "qty": "3",
+   "position": 26
+  },
+  {
+   "week": 3,
+   "key": "pdt",
+   "category": "Légumes",
+   "label": "Pommes de terre moyennes",
+   "qty": "3",
+   "position": 27
+  },
+  {
+   "week": 3,
+   "key": "tomate",
+   "category": "Légumes",
+   "label": "Tomates",
+   "qty": "13",
+   "position": 28
+  },
+  {
+   "week": 3,
+   "key": "epinard",
+   "category": "Légumes",
+   "label": "Épinards",
+   "qty": "200 g",
+   "position": 29
+  },
+  {
+   "week": 3,
+   "key": "amande",
+   "category": "Fruits et oléagineux",
+   "label": "Amandes nature non salées",
+   "qty": "100 g",
+   "position": 30
+  },
+  {
+   "week": 3,
+   "key": "citron",
+   "category": "Fruits et oléagineux",
+   "label": "Citrons",
+   "qty": "2",
+   "position": 31
+  },
+  {
+   "week": 3,
+   "key": "datte",
+   "category": "Fruits et oléagineux",
+   "label": "Dattes",
+   "qty": "8",
+   "position": 32
+  },
+  {
+   "week": 3,
+   "key": "mandarine",
+   "category": "Fruits et oléagineux",
+   "label": "Mandarines",
+   "qty": "4",
+   "position": 33
+  },
+  {
+   "week": 3,
+   "key": "olive",
+   "category": "Fruits et oléagineux",
+   "label": "Olives",
+   "qty": "1 petit bocal",
+   "position": 34
+  },
+  {
+   "week": 3,
+   "key": "orange",
+   "category": "Fruits et oléagineux",
+   "label": "Oranges",
+   "qty": "2",
+   "position": 35
+  },
+  {
+   "week": 3,
+   "key": "poire",
+   "category": "Fruits et oléagineux",
+   "label": "Poires",
+   "qty": "2",
+   "position": 36
+  },
+  {
+   "week": 3,
+   "key": "pomme",
+   "category": "Fruits et oléagineux",
+   "label": "Pommes",
+   "qty": "3",
+   "position": 37
+  },
+  {
+   "week": 3,
+   "key": "p0",
+   "category": "Placard (à vérifier)",
+   "label": "Huile d’olive",
+   "qty": "",
+   "position": 38
+  },
+  {
+   "week": 3,
+   "key": "p1",
+   "category": "Placard (à vérifier)",
+   "label": "Concentré de tomate",
+   "qty": "",
+   "position": 39
+  },
+  {
+   "week": 3,
+   "key": "p2",
+   "category": "Placard (à vérifier)",
+   "label": "Miel",
+   "qty": "",
+   "position": 40
+  },
+  {
+   "week": 3,
+   "key": "p3",
+   "category": "Placard (à vérifier)",
+   "label": "Cumin, paprika, ras el hanout, cannelle",
+   "qty": "",
+   "position": 41
+  },
+  {
+   "week": 3,
+   "key": "p4",
+   "category": "Placard (à vérifier)",
+   "label": "Sel, poivre",
+   "qty": "",
+   "position": 42
+  },
+  {
+   "week": 3,
+   "key": "p5",
+   "category": "Placard (à vérifier)",
+   "label": "Thé vert ou infusions",
+   "qty": "",
+   "position": 43
+  },
+  {
+   "week": 4,
+   "key": "poulet",
+   "category": "Protéines",
+   "label": "Blanc de poulet sans peau",
+   "qty": "550 g",
+   "position": 0
+  },
+  {
+   "week": 4,
+   "key": "poisson",
+   "category": "Protéines",
+   "label": "Poisson blanc (merlan ou colin)",
+   "qty": "150 g",
+   "position": 1
+  },
+  {
+   "week": 4,
+   "key": "sardine",
+   "category": "Protéines",
+   "label": "Sardines fraîches",
+   "qty": "150 g",
+   "position": 2
+  },
+  {
+   "week": 4,
+   "key": "thon",
+   "category": "Protéines",
+   "label": "Thon au naturel (boîtes)",
+   "qty": "3",
+   "position": 3
+  },
+  {
+   "week": 4,
+   "key": "oeuf",
+   "category": "Protéines",
+   "label": "Œufs",
+   "qty": "14",
+   "position": 4
+  },
+  {
+   "week": 4,
+   "key": "fromage",
+   "category": "Produits laitiers",
+   "label": "Fromage frais léger (pots de 100 g)",
+   "qty": "3",
+   "position": 5
+  },
+  {
+   "week": 4,
+   "key": "lait",
+   "category": "Produits laitiers",
+   "label": "Lait écrémé",
+   "qty": "1 L",
+   "position": 6
+  },
+  {
+   "week": 4,
+   "key": "lben",
+   "category": "Produits laitiers",
+   "label": "Lben",
+   "qty": "1 L",
+   "position": 7
+  },
+  {
+   "week": 4,
+   "key": "yaourt",
+   "category": "Produits laitiers",
+   "label": "Yaourts nature 0 %",
+   "qty": "5",
+   "position": 8
+  },
+  {
+   "week": 4,
+   "key": "couscous",
+   "category": "Féculents et légumineuses",
+   "label": "Couscous complet",
+   "qty": "50 g",
+   "position": 9
+  },
+  {
+   "week": 4,
+   "key": "avoine",
+   "category": "Féculents et légumineuses",
+   "label": "Flocons d’avoine",
+   "qty": "200 g",
+   "position": 10
+  },
+  {
+   "week": 4,
+   "key": "frik",
+   "category": "Féculents et légumineuses",
+   "label": "Frik ou boulgour",
+   "qty": "100 g",
+   "position": 11
+  },
+  {
+   "week": 4,
+   "key": "lentilles",
+   "category": "Féculents et légumineuses",
+   "label": "Lentilles sèches",
+   "qty": "100 g",
+   "position": 12
+  },
+  {
+   "week": 4,
+   "key": "pain",
+   "category": "Féculents et légumineuses",
+   "label": "Pain complet ou galette d’orge",
+   "qty": "12 tranches",
+   "position": 13
+  },
+  {
+   "week": 4,
+   "key": "pchiche",
+   "category": "Féculents et légumineuses",
+   "label": "Pois chiches (boîtes de 400 g)",
+   "qty": "1",
+   "position": 14
+  },
+  {
+   "week": 4,
+   "key": "riz",
+   "category": "Féculents et légumineuses",
+   "label": "Riz complet",
+   "qty": "50 g",
+   "position": 15
+  },
+  {
+   "week": 4,
+   "key": "ail",
+   "category": "Légumes",
+   "label": "Ail (têtes)",
+   "qty": "1",
+   "position": 16
+  },
+  {
+   "week": 4,
+   "key": "carotte",
+   "category": "Légumes",
+   "label": "Carottes",
+   "qty": "6",
+   "position": 17
+  },
+  {
+   "week": 4,
+   "key": "champi",
+   "category": "Légumes",
+   "label": "Champignons",
+   "qty": "150 g",
+   "position": 18
+  },
+  {
+   "week": 4,
+   "key": "concombre",
+   "category": "Légumes",
+   "label": "Concombres",
+   "qty": "3",
+   "position": 19
+  },
+  {
+   "week": 4,
+   "key": "coriandre",
+   "category": "Légumes",
+   "label": "Coriandre (bottes)",
+   "qty": "1",
+   "position": 20
+  },
+  {
+   "week": 4,
+   "key": "courgette",
+   "category": "Légumes",
+   "label": "Courgettes",
+   "qty": "7",
+   "position": 21
+  },
+  {
+   "week": 4,
+   "key": "celeri",
+   "category": "Légumes",
+   "label": "Céleri (botte)",
+   "qty": "1",
+   "position": 22
+  },
+  {
+   "week": 4,
+   "key": "hv",
+   "category": "Légumes",
+   "label": "Haricots verts",
+   "qty": "350 g",
+   "position": 23
+  },
+  {
+   "week": 4,
+   "key": "laitue",
+   "category": "Légumes",
+   "label": "Laitues",
+   "qty": "1",
+   "position": 24
+  },
+  {
+   "week": 4,
+   "key": "oignon",
+   "category": "Légumes",
+   "label": "Oignons",
+   "qty": "5",
+   "position": 25
+  },
+  {
+   "week": 4,
+   "key": "persil",
+   "category": "Légumes",
+   "label": "Persil (bottes)",
+   "qty": "1",
+   "position": 26
+  },
+  {
+   "week": 4,
+   "key": "ppois",
+   "category": "Légumes",
+   "label": "Petits pois surgelés",
+   "qty": "150 g",
+   "position": 27
+  },
+  {
+   "week": 4,
+   "key": "poivron",
+   "category": "Légumes",
+   "label": "Poivrons",
+   "qty": "4",
+   "position": 28
+  },
+  {
+   "week": 4,
+   "key": "pdt",
+   "category": "Légumes",
+   "label": "Pommes de terre moyennes",
+   "qty": "3",
+   "position": 29
+  },
+  {
+   "week": 4,
+   "key": "tomate",
+   "category": "Légumes",
+   "label": "Tomates",
+   "qty": "12",
+   "position": 30
+  },
+  {
+   "week": 4,
+   "key": "epinard",
+   "category": "Légumes",
+   "label": "Épinards",
+   "qty": "200 g",
+   "position": 31
+  },
+  {
+   "week": 4,
+   "key": "amande",
+   "category": "Fruits et oléagineux",
+   "label": "Amandes nature non salées",
+   "qty": "100 g",
+   "position": 32
+  },
+  {
+   "week": 4,
+   "key": "citron",
+   "category": "Fruits et oléagineux",
+   "label": "Citrons",
+   "qty": "2",
+   "position": 33
+  },
+  {
+   "week": 4,
+   "key": "datte",
+   "category": "Fruits et oléagineux",
+   "label": "Dattes",
+   "qty": "6",
+   "position": 34
+  },
+  {
+   "week": 4,
+   "key": "mandarine",
+   "category": "Fruits et oléagineux",
+   "label": "Mandarines",
+   "qty": "4",
+   "position": 35
+  },
+  {
+   "week": 4,
+   "key": "olive",
+   "category": "Fruits et oléagineux",
+   "label": "Olives",
+   "qty": "1 petit bocal",
+   "position": 36
+  },
+  {
+   "week": 4,
+   "key": "orange",
+   "category": "Fruits et oléagineux",
+   "label": "Oranges",
+   "qty": "1",
+   "position": 37
+  },
+  {
+   "week": 4,
+   "key": "poire",
+   "category": "Fruits et oléagineux",
+   "label": "Poires",
+   "qty": "2",
+   "position": 38
+  },
+  {
+   "week": 4,
+   "key": "pomme",
+   "category": "Fruits et oléagineux",
+   "label": "Pommes",
+   "qty": "5",
+   "position": 39
+  },
+  {
+   "week": 4,
+   "key": "p0",
+   "category": "Placard (à vérifier)",
+   "label": "Huile d’olive",
+   "qty": "",
+   "position": 40
+  },
+  {
+   "week": 4,
+   "key": "p1",
+   "category": "Placard (à vérifier)",
+   "label": "Concentré de tomate",
+   "qty": "",
+   "position": 41
+  },
+  {
+   "week": 4,
+   "key": "p2",
+   "category": "Placard (à vérifier)",
+   "label": "Miel",
+   "qty": "",
+   "position": 42
+  },
+  {
+   "week": 4,
+   "key": "p3",
+   "category": "Placard (à vérifier)",
+   "label": "Cumin, paprika, ras el hanout, cannelle",
+   "qty": "",
+   "position": 43
+  },
+  {
+   "week": 4,
+   "key": "p4",
+   "category": "Placard (à vérifier)",
+   "label": "Sel, poivre",
+   "qty": "",
+   "position": 44
+  },
+  {
+   "week": 4,
+   "key": "p5",
+   "category": "Placard (à vérifier)",
+   "label": "Thé vert ou infusions",
+   "qty": "",
+   "position": 45
+  }
+ ]
+}

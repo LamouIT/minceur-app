@@ -1,0 +1,28 @@
+# Développement local : docker compose up
+services:
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: minceur
+      POSTGRES_PASSWORD: minceur
+      POSTGRES_DB: minceur
+    ports: ["5432:5432"]
+    volumes: [pgdata:/var/lib/postgresql/data]
+  api:
+    build: ./backend
+    environment:
+      DATABASE_URL: postgresql://minceur:minceur@db:5432/minceur
+      SECRET_KEY: dev-secret-local
+      CORS_ORIGINS: http://localhost:5173
+    ports: ["8000:8000"]
+    depends_on: [db]
+  web:
+    image: node:20
+    working_dir: /app
+    command: sh -c "npm install && npm run dev -- --host"
+    environment:
+      VITE_API_URL: http://localhost:8000
+    volumes: [./frontend:/app, /app/node_modules]
+    ports: ["5173:5173"]
+volumes:
+  pgdata:
